@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/2e02649f-dd80-476d-855c-676cbb8fb89f
+
 # Infinity
 
 ![App](https://raw.githubusercontent.com/iondrimba/images/master/infinity.gif)
@@ -6,9 +10,6 @@
 
 ## [Demo](https://iondrimba.github.io/infinity/public/index.html)
 
-
-
-Uploading Gravando 2025-05-07 200231.mp4…
 
 
 
